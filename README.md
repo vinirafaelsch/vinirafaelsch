@@ -25,19 +25,13 @@
 
 ## 📈 GitHub Stats
 <p align="center">
-  <!-- Contribution streak card -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinirafaelsch&theme=radical" />
-  <br/>
-  <!-- Trophy card -->
-  <img src="https://github-profile-trophy.vercel.app/?username=vinirafaelsch&theme=radical&no-frame=true&row=1&column=7" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vinirafaelsch&theme=radical&count_private=true" height="200px"/>
 </p>
-
-<blockquote><sub>Note: PR counters and trophies consider only <em>public</em> repositories.</sub></blockquote>
 
 ## 📫 Reach Me
 <p>
   <a href="mailto:vinirafaelsch@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://www.linkedin.com/in/viniciusrafaelschneider/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/vinicius-schneider/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <p align="center">
