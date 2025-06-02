@@ -1,5 +1,3 @@
-<h1 align="center">Hi, I'm Vinícius Schneider 👋</h1>
-
 <p align="center">
   <strong>Full-Stack & Geospatial Developer</strong><br/>
 </p>
